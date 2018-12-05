@@ -15,10 +15,21 @@
     "start": "webpack --watch",
     "build": "webpack"
   },
+  "keywords": [
+    "react",
+    "loader",
+    "gif",
+    "page"
+  ],
   "author": {
     "name": "Thamodaran",
     "email": "kthamodaran@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thamodaran/react-gif-loader"
+  },
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
