@@ -19,7 +19,10 @@
     "react",
     "loader",
     "gif",
-    "page"
+    "page",
+    "loading",
+    "screen",
+    "full"
   ],
   "author": {
     "name": "Thamodaran",
