@@ -11,6 +11,7 @@ class GifLoader extends React.Component {
         zIndex: "99999",
         height: "100vh",
         width: "100%",
+        textAlign: "center",
         position: "absolute",
         display: loading ? "block" : "none",
         backgroundColor: overlayBackground
